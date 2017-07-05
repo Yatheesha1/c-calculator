@@ -1,1 +1,1 @@
-# c-calculator
+A simple .net c# calculator
